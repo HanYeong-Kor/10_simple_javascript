@@ -1,5 +1,5 @@
 const btn = document.getElementById("btn");
-const btn = document.getElementById("nav");
+const nav = document.getElementById("nav");
 
 btn.addEventListener("click", () => {
     nav.classList.toggle("active");
